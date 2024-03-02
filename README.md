@@ -1,4 +1,5 @@
 # Simple Flask Calculator
+![alt text](https://github.com/besology512/calculator_flask/blob/main/screenshot.png)
 ## installation:
 ### - clone the repository or download it
 ### make sure you installed flask and its extensions
